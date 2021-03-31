@@ -1,5 +1,6 @@
 # react-native-insider-1
 Projeto gerador de senhas desenvolvido na semana react native insider
+<br>
 Este projeto foi desenvolvido utilizando React Native com Expo.
 <br>
 <br>
